@@ -1,0 +1,7 @@
+Service\LanHouseBean.class
+br\resources\JavaEE8Resource.class
+Service\Computador.class
+Service\LanHouseService.class
+br\JAXRSConfiguration.class
+Service\LanHouseServicePublisher.class
+Service\LanHouseManager.class
